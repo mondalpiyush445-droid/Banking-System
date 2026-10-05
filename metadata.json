@@ -1,0 +1,6 @@
+{
+  "name": "Mondal Bank — Banking System",
+  "description": "Secure and sleek digital banking system with real-time balance tracking, instant deposits and withdrawals, passbook statements, and account controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
